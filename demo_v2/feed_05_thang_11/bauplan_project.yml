@@ -1,0 +1,11 @@
+project:
+  id: 8cd36432-5fd6-482c-beb9-ef9adaa4205b
+  name: feed_05_thang_11
+
+parameters:
+  upto:
+    type: str
+    default: "2026-11-07"
+  upper_days:
+    type: str
+    default: ""

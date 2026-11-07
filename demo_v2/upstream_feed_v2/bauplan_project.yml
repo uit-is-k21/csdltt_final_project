@@ -1,0 +1,11 @@
+project:
+  id: 730533ea-7c14-4b17-9d6a-1f3b237ee894
+  name: upstream_feed_v2
+
+parameters:
+  upto:
+    type: str
+    default: "2026-11-07"
+  upper_days:
+    type: str
+    default: ""
