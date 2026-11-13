@@ -4,6 +4,8 @@ Demo for the *Advanced Database Systems* class (UIT): an AI agent (Claude Code) 
 broken [Bauplan](https://www.bauplanlabs.com) data pipeline. The pipeline breaks because the **data**
 changes upstream, not because the code does.
 
+Video demo: [https://drive.google.com/file/d/1CXOKRYhPqTe2GYEBgAzMNaObwzCQd8K9/view?usp=sharing](https://drive.google.com/file/d/1CXOKRYhPqTe2GYEBgAzMNaObwzCQd8K9/view?usp=sharing)
+
 ## Repository layout
 
 | Path | Content |
